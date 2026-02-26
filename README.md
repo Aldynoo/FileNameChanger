@@ -1,6 +1,6 @@
 **FileNameChanger**
 
-A simple C# WinForms app to rename video and subtitle files for *italic*Plex.
+A simple C# WinForms app to rename video and subtitle files for *Plex*.
 
 **Features:**
 
