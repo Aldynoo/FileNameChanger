@@ -1,19 +1,19 @@
-FileNameChanger
+**FileNameChanger**
 
-A simple C# WinForms app to rename video and subtitle files for Plex.
+A simple C# WinForms app to rename video and subtitle files for *italic*Plex.
 
-Features:
+**Features:**
 
 Load .mp4, .mkv, and .srt files from a folder.
 Preview and rename files individually or in bulk.
 Sync video and subtitle filenames automatically.
 
-Built With
+**Built With**
 C# / WinForms
 DataGridView for file management
 File I/O and string manipulation
 
-Why I Built It
+**Why I Built It**
 Created to improve my C# skills and streamline media organization for Plex. 
 Demonstrates:
 Windows Forms UI design
